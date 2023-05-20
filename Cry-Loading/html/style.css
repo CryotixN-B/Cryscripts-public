@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #660099;
+}
+
+.loading-text {
+    color: #00ff00;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.video-frame {
+    width: 560px;
+    height: 315px;
+    margin: 0 auto;
+    margin-top: 50px;
+    border: 5px solid #00ff00;
+}
